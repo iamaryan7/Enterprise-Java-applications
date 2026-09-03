@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Java Spring Boot EMS",
+  "description": "Enterprise Management System with Spring Boot 3 architecture, JWT security, MySQL schema, and responsive management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
